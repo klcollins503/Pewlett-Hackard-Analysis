@@ -24,12 +24,14 @@ The following tables were used to complete this analysis:
 * With all these retirements, the first step is to look at employees eligible for a mentorship program:
     1. There are 1,549 employees eligible for a mentorship program.
     2. These potential mentors should be sufficient to train incoming employees.
-* This leaves a large amount of positions unfilled. 
+* There will be a lot of new employees coming on to fill vacant positions and these mentors will play a crucial role in getting these new people on board. 
 
 ## Conclusion
 #### Time to start a mentorship program and get new employees on board
 
 It is time for Pewlet Hackard to start hiring fresh people so they don't end up with a labor shortage with all the retirements in the near future. Lucky for them they have many retirement eligible employees who are also eligible for a mentorship program so they can help train incoming employees.
+
+This additional query shows the titles of mentorship eligible employees. The only title that is missing is the "Manager" role, however that is not somthing to worry about as managers will be able to be scouted from other positions in the company. The best manager has done the work (of an engineer for example) and knows how to support employees doing those roles.
 
 <img width="177" alt="Mentorship_eligible_titles" src="https://user-images.githubusercontent.com/95047485/152397645-10372c63-cdad-4bbb-9334-ba5dba2e318b.PNG">
 
