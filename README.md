@@ -1,6 +1,7 @@
 # Pewlett-Hackard-Analysis
 
 ## Overview
+### Purpose statement and data sources
 The purpose of this analysis was to PostgreSQL to determine the number of employees coming due for retirement and the number of employees who are eligible for a mentorship program.
 
 The following tables were used to complete this analysis:
@@ -10,6 +11,7 @@ The following tables were used to complete this analysis:
 
 
 ## Results
+### Retirement and mentorship eligible employees
 * There are over 72,000 Pewlett Hackard employees that are coming due for retirement. 
     1. 25,916 of these employees are Senior Engineers
     2. 24,962 are Staff Engineers
@@ -24,7 +26,9 @@ The following tables were used to complete this analysis:
     2. These potential mentors should be sufficient to train incoming employees.
 * This leaves a large amount of positions unfilled. 
 
-### Conclusion
+## Conclusion
+#### Time to start a mentorship program and get new employees on board
+
 It is time for Pewlet Hackard to start hiring fresh people so they don't end up with a labor shortage with all the retirements in the near future. Lucky for them they have many retirement eligible employees who are also eligible for a mentorship program so they can help train incoming employees.
 
 <img width="177" alt="Mentorship_eligible_titles" src="https://user-images.githubusercontent.com/95047485/152397645-10372c63-cdad-4bbb-9334-ba5dba2e318b.PNG">
